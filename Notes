@@ -1,0 +1,31 @@
+/*
+
+- Client (Web Browers) submits a HTTPS "request
+The request goes to the server which is the "Backend"
+
+- HTML - Hyper Text Markup Language
+Hyper Text could be called "text within text"
+
+HTML is the structure of the webpage - Like the skeleton
+
+
+- CSS 
+"Cascading Style Sheets"
+CSS is the style of the webpage
+CSS is the "everything else" that give style and form to the webpage. Not content, just skin.
+
+
+- Javascript "JS"
+Javascript is the muscle/logic/brain of the website. Javascript reacts and moves. Javascript reacts.
+
+
+- Web Development requires
+HTML 5 (5), Javascript (JS), and CSS (3)
+
+
+- git
+git is how we keep updating and save multiple different versions for code to make sure we keep sucesses and can go back from mistakes.
+git is called "version control"
+
+
+*/
